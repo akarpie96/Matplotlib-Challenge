@@ -1,8 +1,16 @@
 # Matplotlib-Challenge
 
+## Datasets 
+
+[Mouse Data](/data/Mouse_MetaData.csv)
+
+[Study Results](/data/Study_results.csv)
+
 ## Background
 
 * Used pandas to merge mouse data and study results. 
+
+
 
 * Performed data cleaning by removing duplicate data points. 
 
