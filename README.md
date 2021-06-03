@@ -8,16 +8,44 @@
 
 ## Background
 
-* Used pandas to merge mouse data and study results. 
+* Analyzing tumor volume of mice after undergoing drug regimens. 
+
+* Used pandas to merge mouse data and study results. Performed data cleaning by removing duplicate data points. Utilized groupby function to aggregate statistical summary for the different drug regimens.
 
 
+<img src="/Images/DataMerge.PNG" alt="My cool logo"/>
 
-* Performed data cleaning by removing duplicate data points. 
-
-* Utilized groupby function to aggregate statistical summary for the different drug regimens.
 
 
 ## Images/Analysis 
+
+### Total measurements taken by drug regimen: 
+
+<img src="/Images/TotalMeasurementsTaken.PNG" alt="My cool logo"/>
+
+### Pie Chart showing distribution of mice by gender: 
+
+<img src="/Images/Distribution by Gender.PNG" alt="My cool logo"/>
+
+### Box and whisker plot to show outliers within the dataset. 
+
+<img src="/Images/BoxPlotFinalTumorVolume.PNG" alt="My cool logo"/>
+
+### Tumor volume of randomly selected Mouse b128
+
+<img src="/Images/Capomulin Mouse B128.PNG" alt="My cool logo"/>
+
+### Used a scatter plot to show distribution of dataset. Used a red line to demonstrate the simple regression line.
+
+
+<img src="/Images/Correlation_Regression.PNG" alt="My cool logo"/>
+
+
+
+
+
+
+
 
 ## Observations 
 
